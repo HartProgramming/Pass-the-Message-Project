@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    justify-content: center;
+    display: flex;
+    background-color: cornflowerblue;
+}
+
+section{
+    height: 450px;
+    width: 450px;
+    position: relative;
+    margin: auto;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: gray;
+}
+
+h1{
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+#textEntry{
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    margin-left: 75px;
+}
+
+#submit{
+    width: 100px;
+    margin-left: 175px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
